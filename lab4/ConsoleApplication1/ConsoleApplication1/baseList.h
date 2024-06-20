@@ -2,12 +2,16 @@
 #include <iostream>
 
 class BaseList {
-protected: 
+protected:
+	static int createCount;
+	static int destroyCount;
 	int lenght = 0;
 	virtual BaseList* emptyClone() = 0;
 
 public:
 	int count() const;
+	static int CreateCount();
+	static int DestroyCount();
 	virtual ~BaseList() {};
 
 	virtual void add(int item) = 0;

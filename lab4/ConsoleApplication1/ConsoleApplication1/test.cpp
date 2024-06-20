@@ -22,10 +22,10 @@ int main() {
  			arrayList->insert(number, index);
 			linkedList->insert(number, index);
 			break;
-		/*case 2:
+		case 2:
 			arrayList->deleteItem(index);
 			linkedList->deleteItem(index);
-			break;*/
+			break;
 		/*case 3:
 			arrayList->clear();
 			linkedList->clear();
@@ -52,4 +52,11 @@ int main() {
 		}
 
 		//arrayList->print();
+
+		delete arrayList;
+		delete linkedList;
+		delete arrayClone;
+
+		std::cout << "Количество созданных обьектов: " << arrayList->CreateCount() << "\n";
+		std::cout << "Количество удаленных обьектов: " << arrayList->DestroyCount();
 }

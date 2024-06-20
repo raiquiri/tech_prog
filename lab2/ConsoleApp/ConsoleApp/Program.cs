@@ -4,7 +4,7 @@ namespace ConsoleApp
 { 
     class Program
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             BaseList arrayList = new ArrayList();
             BaseList linkedList = new LinkedList();
@@ -28,7 +28,7 @@ namespace ConsoleApp
 
 
 
-            /*for (int i = 0; i <= 100; i++)
+            *//*for (int i = 0; i <= 100; i++)
             {
                 int factor = random.Next(1, 5);
                 int number = random.Next(0, 1000);
@@ -70,7 +70,7 @@ namespace ConsoleApp
             {
                 Console.WriteLine("Accept");
             }
-            Console.WriteLine("Jopa");*/
-        }
+            Console.WriteLine("Jopa");*//*
+        }*/
     }
 }

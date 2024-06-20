@@ -4,10 +4,12 @@ LinkedList::Node::Node(int data) : Data(data), Next(nullptr) {}
 
 LinkedList::LinkedList() {
 	head = nullptr;
+	createCount++;
 }
 
 LinkedList::~LinkedList() {
 	clear();
+	destroyCount++;
 }
 
 LinkedList::Node* LinkedList::find(int position) {
@@ -66,24 +68,6 @@ void LinkedList::insert(int item, int position) {
 			lenght++;
 		}
 	}
-	/*if (position > lenght || position < 0) {
-		return;
-	}
-	if (position == lenght) {
-		add(item);
-	}
-	if (position == 0) {
-		Node* newNode = new Node(item);
-		newNode->Next = head;
-		head = newNode;
-		return;
-	}
-	Node* currentNode = find(position - 1);
-	Node* newNode = new Node(item);
-	newNode->Next = currentNode->Next;
-	currentNode->Next = newNode;
-	
-	lenght++*/;
 }
 
 void LinkedList::deleteItem(int position) {

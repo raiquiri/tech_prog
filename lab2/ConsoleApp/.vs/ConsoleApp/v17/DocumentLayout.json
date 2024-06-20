@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\consoleapp\\consoleapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\consoleapp\\consoleapp\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388C9C3-23BA-4BD7-BC44-55C06CEC61C2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arraylist.cs",
+              "DocumentMoniker": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\arraylist.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\arraylist.cs",
+              "ToolTip": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\arraylist.cs",
+              "RelativeToolTip": "ConsoleApp\\arraylist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:20:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp\\Class1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwFkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:15:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0436\u043E\u043F\u0438\u043A\\source\\repos\\tech_prog\\lab2\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:22:09.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

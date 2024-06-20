@@ -1,7 +1,17 @@
 #include "baseList.h"
+int BaseList::createCount = 0;
+int BaseList::destroyCount = 0;
 
 int BaseList::count() const {
 	return lenght;
+}
+
+int BaseList::CreateCount() {
+	return createCount;
+}
+
+int BaseList::DestroyCount() {
+	return destroyCount;
 }
 
 void BaseList::Assign(BaseList& sourse) {

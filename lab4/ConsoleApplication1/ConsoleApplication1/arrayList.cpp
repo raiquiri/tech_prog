@@ -2,10 +2,12 @@
 
 ArrayList::ArrayList() : size(4){
 	buffer = new int[size];
+	createCount++;
 }
 
 ArrayList::~ArrayList() {
 	delete[] buffer;
+	destroyCount++;
 }
 
 void ArrayList::add(int item) {
@@ -32,18 +34,6 @@ void ArrayList::insert(int item, int position) {
 		}
 		buffer[position] = item;
 	}
-	/*if (position > lenght || position < 0) {
-		return;
-	}
-	if (position == lenght) {
-		add(item);
-		return;
-	}
-	for (int i = lenght; i > position; i--) {
-		buffer[i] = buffer[i - 1];
-	}
-	buffer[position] = item;
-	lenght++;*/
 }
 
 void ArrayList::deleteItem(int position) {
